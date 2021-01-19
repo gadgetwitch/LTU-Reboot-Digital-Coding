@@ -1,0 +1,25 @@
+CPD - Continuing Professional Development
+
+
+Date of CPD activity
+Jan 19/2021
+
+CPD activity
+Introduction to Web Development
+I am looking to refresh my skills from web development in the 1990s
+
+What have I learnt?
+Visual Studio Code and modern editors have alot of extensions to make life easier and learner.
+w3schools.com 
+codewars to test
+sololearn on your phone
+GA Dash - general assembly dash free course
+FreeCodeCamp is recommended by Luke
+CodeAcademy 
+Mimo app on phone
+
+How did I use this in practice?
+I intend to use this to help with building a front end dashboard capability that
+we have been looking to do but the engineers have not been able to complete as it isnt their skillset
+
+ I didnt find the class very hard today but being tired from a long day i didnt actually have to bite my tongue a few times :)
