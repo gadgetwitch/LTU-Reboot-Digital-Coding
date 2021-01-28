@@ -26,4 +26,12 @@ li {
   color: purple;
 }
 
+strong{
+    color: cadetblue;
+}
+
+em {
+    color: blueviolet;
+}
+
 /* Your code goes above here */
