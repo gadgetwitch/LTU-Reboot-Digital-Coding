@@ -1,27 +1,17 @@
 /* Your code goes below here */
 h1, h2, h3 {
-  font-family:'Trebuchet', sans-serif;
+
   font-weight: 700;
 }
 
 h1 {
-  font-size: 80px;
-  font-weight: bold;
-}
 
-h2 {
-  font-size: 60px;
-  font-style:oblique;
-}
-
-h3 {
-  font-size: 40px;
 }
 
 p {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
-  color: crimson;
+
 }
 
 

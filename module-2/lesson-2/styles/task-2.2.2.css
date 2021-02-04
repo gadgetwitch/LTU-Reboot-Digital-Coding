@@ -1,10 +1,7 @@
 /* Your code goes below here */
 
 /* 
-selector {
-  property: value;
-}
-*/
+
 p {
   color: #343434;
   font-size: 24px;
@@ -24,14 +21,6 @@ ol, ul {
 
 li {
   color: purple;
-}
-
-strong{
-    color: cadetblue;
-}
-
-em {
-    color: blueviolet;
 }
 
 /* Your code goes above here */
